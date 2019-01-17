@@ -14,3 +14,4 @@ germinate vt. 使发芽；使生长
 
 misleading  adj. 令人误解的；引入歧途的 
 
+reasonably = sensible  合理的
