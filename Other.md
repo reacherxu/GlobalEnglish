@@ -72,3 +72,15 @@ sorry for the background   后面有很多噪声
 if there's a possibility that ...   是否有可能
 
 it is not required   ...不需要
+
+
+
+that would be my proposal  我的建议是... 
+
+apart from sth   除了... 
+
+it can not be done 做不了 
+
+but nevertheless …  
+
+when I'm running postman  当我用postman 
