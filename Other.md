@@ -72,3 +72,9 @@ sorry for the background   后面有很多噪声
 if there's a possibility that ...   是否有可能
 
 it is not required   ...不需要
+
+sth be on the way = be in progress 正在做
+
+I lost connection  我断线了
+
+the background is that.. 背景是...
