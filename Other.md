@@ -78,3 +78,13 @@ sth be on the way = be in progress 正在做
 I lost connection  我断线了
 
 the background is that.. 背景是...
+
+that would be my proposal  我的建议是... 
+
+apart from sth   除了... 
+
+it can not be done 做不了 
+
+but nevertheless …  
+
+when I'm running postman  当我用postman 
