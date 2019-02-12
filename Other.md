@@ -89,6 +89,10 @@ but nevertheless …
 
 when I'm running postman  当我用postman 
 
-
-
 Rest of the systems are in place  其余系统已经到位
+
+it works well...  ...都正常
+
+I’m just assuming  that ... 我只是猜想...
+
+stay minutes on sth…  再讲讲...
