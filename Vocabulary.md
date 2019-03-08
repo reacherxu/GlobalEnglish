@@ -19,3 +19,8 @@ reasonably = sensible  合理的
 afterwards adv. 后来
 
 outline  vt. 概述  n. 概要
+
+gender balance n. 性别平等  /  gender-balanced world  
+
+On International Women’s Day  在国际妇女节
+

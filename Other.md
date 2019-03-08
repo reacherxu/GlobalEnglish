@@ -10,9 +10,6 @@
 提出了.. 问题  raise the question of
 **你知道什么吗  are you aware of that** 
 
-现在时 the present perfect
-过去时 the simple past
-
 set (up) for life  衣食无忧
 I know what you mean
 off-in-lieu  调休
@@ -101,3 +98,6 @@ was there any progress   有什么进展吗？
 
 in relation to 关于
 
+retrospect  n. 回顾，追溯
+
+retrospective adj. 回顾的
