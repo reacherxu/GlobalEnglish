@@ -98,10 +98,13 @@ was there any progress   有什么进展吗？
 
 in relation to 关于
 
+would very much like to do 
 
+very much appreciate ..
 
-retrospect  n. 回顾，追溯
+shorten the meeting  缩短会议
 
-retrospective adj. 回顾的
+simply because  只是因为
 
-double quotation 双引号
+what’s impact? 有什么影响呢？
+

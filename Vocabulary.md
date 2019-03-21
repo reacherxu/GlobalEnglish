@@ -24,3 +24,8 @@ gender balance n. 性别平等  /  gender-balanced world
 
 On International Women’s Day  在国际妇女节
 
+retrospect  n. 回顾，追溯
+
+retrospective adj. 回顾的
+
+double quotation 双引号
