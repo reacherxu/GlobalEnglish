@@ -108,3 +108,10 @@ simply because  只是因为
 
 what’s impact? 有什么影响呢？
 
+technical person  技术人员
+
+stabilize the system  稳定系统
+
+SPOC = Single Point of Contact  
+
+RCA = Root Cause Analysis   错误原因分析
