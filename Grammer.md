@@ -11,3 +11,7 @@ Form:S + *has/have* + V (past  participle)
 S + V (base form) + *-ed* 
 
 S + irregular V (past tense) 
+
+
+
+I will be doing sth...   将要做某事

@@ -115,3 +115,13 @@ stabilize the system  稳定系统
 SPOC = Single Point of Contact  
 
 RCA = Root Cause Analysis   错误原因分析
+
+
+
+It won't take much time  不会花多久的
+
+get prepared to do sth 准备做某事
+
+some applications crahsed  指app崩了
+
+top right corner 右上角
