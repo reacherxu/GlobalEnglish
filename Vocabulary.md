@@ -29,3 +29,5 @@ retrospect  n. 回顾，追溯
 retrospective adj. 回顾的
 
 double quotation 双引号
+
+spillover n. 外溢

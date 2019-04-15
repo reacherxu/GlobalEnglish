@@ -125,3 +125,9 @@ get prepared to do sth 准备做某事
 some applications crahsed  指app崩了
 
 top right corner 右上角
+
+I get your point 我知道你想说的
+
+my point is that ... 我的意思是
+
+havea clear visibility about sth ... 清晰的看到
