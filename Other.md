@@ -131,3 +131,5 @@ I get your point 我知道你想说的
 my point is that ... 我的意思是
 
 havea clear visibility about sth ... 清晰的看到
+
+be in agreement with ...  达成一致
