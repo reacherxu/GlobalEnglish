@@ -116,7 +116,7 @@ SPOC = Single Point of Contact
 
 RCA = Root Cause Analysis   错误原因分析
 
-
+CAM =  Cloud Access Manager tool
 
 It won't take much time  不会花多久的
 
@@ -133,3 +133,12 @@ my point is that ... 我的意思是
 havea clear visibility about sth ... 清晰的看到
 
 be in agreement with ...  达成一致
+
+This is primarily …   这就是今天主要的...
+
+I just did a few experiments. 我做了些实验
+
+Additionally  = in addition
+
+my suspicion is that  我怀疑是...
+
