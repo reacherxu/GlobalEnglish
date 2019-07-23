@@ -146,4 +146,16 @@ attaching vault screenshot for your reference  以供参考
 
 Kindly look into the issue on priority. 优先查看问题
 
-on the fly <https://www.zhihu.com/question/21136587>
+once in a while = sometimes
+
+proceed with sth… 可以继续进行
+
+on the fly https://www.zhihu.com/question/21136587
+
+what I understood was ...
+
+tricky  棘手的
+
+without sth in place  如果....做不好
+
+by default  adv. 默认的   
