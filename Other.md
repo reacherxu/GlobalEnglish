@@ -3,19 +3,21 @@
 你自己选     so  it's your choice
  /   slash
 
--dash  ， hyphen = dash
+-dash  ， hyphen = dash  中间的短横线“-”
 
-我没听清，能重复一遍吗  Sorry,I didn't catch you, could you repeat that.
+我没听清，能重复一遍吗  
+
+Sorry,I didn't catch you, could you repeat that.
+
+I beg your pardon?
 
 提出了.. 问题  raise the question of
-**你知道什么吗  are you aware of that** 
+
+你知道什么吗  are you aware of that
 
 set (up) for life  衣食无忧
-I know what you mean
+I know what you mean / I got your point  我理解你的意思了
 off-in-lieu  调休
-
-中间的短横线“-”用hyphen   dash
-下面的短横线“_”用under cross
 
 I'm finished  我这边结束了
 
@@ -24,15 +26,11 @@ keep me in the loop   就是邮件里面一直抄送某人
 he did excellent job   他做的很好
 drastic changes
 
-
-
 it is not needed  不需要XXXX
 
 the wholistic picture  整个大图
 
 my bad 我的错
-
-
 
 be eager to do sth   想要做某事
 
@@ -46,13 +44,19 @@ sorry for the interrupt  抱歉打扰一下
 it depends   那看情况
 Did I get it right?   ==  Did I misunderstand sth?  我理解正确吗？
 
-give priority to sth 提高优先级
+do sth on priority = give priority to sth 提高优先级
 there will be a follow-up meeting 会有个跟进会议
 close our call 可以结束会议了
 
 right after the call 马上做完
 
 similarly = likewise
+
+do likewise
+
+
+
+----------------------
 
 I have to drop off for another meeting 还有另外一个会议
 
