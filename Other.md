@@ -54,20 +54,16 @@ similarly = likewise
 
 do likewise
 
-
-
-----------------------
-
 I have to drop off for another meeting 还有另外一个会议
 
-replicated the problem  重现了这个问题
+replicate the problem  重现了这个问题
 
 shit happens  不好的事情时常发生
 
 you can post a message  here  
 
 another landscape need to be set up   搞一个landscape
-is this patch critical to any of our customers   patch 很重要么
+Is this patch critical to any of our customers   patch 很重要么
 sorry for the background   后面有很多噪声
 
 if there's a possibility that ...   是否有可能
@@ -76,13 +72,13 @@ it is not required   ...不需要
 
 sth be on the way = be in progress 正在做
 
-I lost connection  我断线了
+I lost connection  我断线了 = sb be disconnected
 
 the background is that.. 背景是...
 
 that would be my proposal  我的建议是... 
 
-apart from sth   除了... 
+apart from sth  = other than 除了... 
 
 it can not be done 做不了 
 
@@ -100,7 +96,7 @@ stay minutes on sth…  再讲讲...
 
 was there any progress   有什么进展吗？
 
-in relation to 关于
+in relation to = with regard to = regarding 关于
 
 would very much like to do 
 
@@ -134,7 +130,7 @@ I get your point 我知道你想说的
 
 my point is that ... 我的意思是
 
-havea clear visibility about sth ... 清晰的看到
+have a clear visibility about sth ... 清晰的看到
 
 be in agreement with ...  达成一致
 
