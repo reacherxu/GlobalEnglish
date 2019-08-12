@@ -159,3 +159,5 @@ tricky  棘手的
 without sth in place  如果....做不好
 
 by default  adv. 默认的   
+
+at the end of the day. 最终；说到底；一天结束时
